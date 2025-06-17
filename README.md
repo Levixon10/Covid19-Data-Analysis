@@ -6,14 +6,7 @@ This project is a simple data analysis and visualization of COVID-19 global data
 
 ## 📁 Project Structure
 
-covid-data-analysis/
-│
-├── data/
-│ └── time-series-19-covid-combined.csv.zip # Raw dataset
-│
-├── covid_analysis.ipynb # Jupyter Notebook containing the full analysis
-└── README.md # Project documentation
-
+<pre> ``` covid-data-analysis/ │ ├── data/ │ └── time-series-19-covid-combined.csv.zip ├── covid_analysis.ipynb └── README.md ``` </pre>
 
 ---
 
